@@ -37,7 +37,7 @@ class Config:
     REQUEST_TIMEOUT = 30
     
     # Configurações de áudio
-    AUDIO_FILE = "LINK_DO_MEU_AUDIO"
+    AUDIO_FILE = "https://github.com/loovesex/chatbot/raw/refs/heads/main/assets/assets_audio_paloma_audio.mp3"
     AUDIO_DURATION = 7
     
     # Imagens
