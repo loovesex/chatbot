@@ -23,9 +23,9 @@ class Config:
     
     # URLs de checkout/páginas
     VIP_LINK = "https://exemplo.com/vip"
-    CHECKOUT_START = "https://checkout.exemplo.com/start"
-    CHECKOUT_PREMIUM = "https://checkout.exemplo.com/premium"
-    CHECKOUT_EXTREME = "https://checkout.exemplo.com/extreme"
+    CHECKOUT_START = "https://checkout.vendeagora.com/api/public/shopify?product=436148779821&store=4361"
+    CHECKOUT_PREMIUM = "https://checkout.vendeagora.com/api/public/shopify?product=436129919379&store=4361"
+    CHECKOUT_EXTREME = "https://checkout.vendeagora.com/api/public/shopify?product=436149587759&store=4361"
     
     # URLs de assinatura VIP
     CHECKOUT_VIP_1MES = "https://checkout.exemplo.com/vip-1mes"
